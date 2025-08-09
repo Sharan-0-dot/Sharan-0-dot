@@ -40,6 +40,13 @@ I'm an enthusiastic **Software Engineering student** pursuing Computer Science a
 
 ## 🚩 Featured Projects
 
+### 📝 BlogApp (React & Spring Boot)
+A full-stack blog application with modern tech and cloud deployment.
+- **Frontend:** [BlogApp-react](https://github.com/Sharan-0-dot/BlogApp-react)  
+  Hosted on Vercel: [blog-app-psi-tan.vercel.app](https://blog-app-psi-tan.vercel.app/)
+- **Backend:** [BlogApp-SpringBoot](https://github.com/Sharan-0-dot/BlogApp-SpringBoot)  
+  Hosted on Render
+
 ### 🛒 [Ecommerce Website Backend (Spring Boot)](https://github.com/Sharan-0-dot/ecommerce-springboot)
 Robust backend architecture for a scalable e-commerce platform.
 
