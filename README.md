@@ -33,7 +33,7 @@ I'm an enthusiastic **Software Engineering student** pursuing Computer Science a
 
 ## 🧠 Problem Solver
 
-- 🏆 **550+ problems solved** on [LeetCode](https://leetcode.com/u/sharansc482/)  
+- 🏆 **600+ problems solved** on [LeetCode](https://leetcode.com/u/sharansc482/)  
 - Always excited for new challenges and learning opportunities!
 
 ---
@@ -46,6 +46,9 @@ A full-stack blog application with modern tech and cloud deployment.
   Hosted on Vercel: [blog-app-psi-tan.vercel.app](https://blog-app-psi-tan.vercel.app/)
 - **Backend:** [BlogApp-SpringBoot](https://github.com/Sharan-0-dot/BlogApp-SpringBoot)  
   Hosted on Render
+
+### 🎥 [Converge Real-Time Video Chat App (React)](https://github.com/Sharan-0-dot/Converge-live-meet-react-)
+Create instant meetings and join meetings in real-time with seamless video chat functionality.
 
 ### 🛒 [Ecommerce Website Backend (Spring Boot)](https://github.com/Sharan-0-dot/ecommerce-springboot)
 Robust backend architecture for a scalable e-commerce platform.
