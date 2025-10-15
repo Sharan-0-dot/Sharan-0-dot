@@ -53,9 +53,6 @@ Create instant meetings and join meetings in real-time with seamless video chat 
 ### 🛒 [Ecommerce Website Backend (Spring Boot)](https://github.com/Sharan-0-dot/ecommerce-springboot)
 Robust backend architecture for a scalable e-commerce platform.
 
-### ☀️ [Weather Forecast App (HTML/CSS/JS)](https://github.com/Sharan-0-dot/Weather-Forecast)
-A sleek, user-friendly web app delivering real-time weather updates.
-
 ---
 
 ## 🤝 Connect with Me
