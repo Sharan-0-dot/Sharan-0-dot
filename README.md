@@ -131,7 +131,7 @@
 
 🔗 [Live Demo](https://blog-app-psi-tan.vercel.app/)
 
-**Tech:** React • Spring Boot • MySQL
+**Tech:** React • Spring Boot • MongoDB
 
 </td>
 </tr>
@@ -145,7 +145,7 @@
 
 **Features:** Instant Meetings • Live Chat
 
-**Tech:** React • WebRTC
+**Tech:** React • SpringBoot - ZegoCloud
 
 </td>
 <td width="50%">
