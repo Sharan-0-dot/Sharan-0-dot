@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sharan+SC;Full+Stack+Developer;Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sharan+SC;Full+Stack+Developer;Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%F0%9F%9A%80;Microservices+Architect" alt="Typing SVG" />
 
 </div>
 
@@ -26,9 +26,9 @@
 
 - 🎓 **Software Engineering Student** specializing in Computer Science
 - 💻 Building **impactful solutions** with modern tech
-- 🌱 Currently mastering **Full Stack Development**
+- 🌱 Currently mastering **Full Stack Development & Microservices**
 - 🎯 **600+ problems** solved on LeetCode
-- 💬 Ask me about **React, Spring Boot, DSA**
+- 💬 Ask me about **React, Spring Boot, Microservices, DSA**
 - ⚡ Fun fact: **Code is poetry in motion**
 
 <br clear="both"/>
@@ -50,12 +50,18 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Cloud & AI
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -100,6 +106,24 @@
 <tr>
 <td width="50%">
 
+### 🤖 AI Resume Builder
+**Microservices Architecture**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sharan-0-dot&repo=ai-resume-builder-microservices&theme=tokyonight)](https://github.com/Sharan-0-dot/ai-resume-builder-microservices)
+
+**Features:** AI-Powered • ATS-Friendly • DOCX Export
+
+**Tech:** Spring Boot • Eureka • API Gateway • Gemini AI • Apache POI
+
+**Highlights:**
+- 🧠 Gemini AI for content optimization
+- 📄 ATS-optimized resume generation
+- 🏗️ Scalable microservices architecture
+- 📝 Editable Word document output
+
+</td>
+<td width="50%">
+
 ### 📝 BlogApp
 **Full-Stack Blog Platform**
 
@@ -110,6 +134,8 @@
 **Tech:** React • Spring Boot • MySQL
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎥 Converge
@@ -122,8 +148,6 @@
 **Tech:** React • WebRTC
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🛒 E-Commerce Backend
@@ -134,7 +158,9 @@
 **Tech:** Spring Boot • JPA • MySQL
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td colspan="2" align="center">
 
 ### 💡 More Projects
 **Explore my repositories**
@@ -168,7 +194,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-sc-4b475b2b7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sharansc482/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharansc482@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://blog-app-psi-tan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-web-page-azure.vercel.app/)
 
 </div>
 
