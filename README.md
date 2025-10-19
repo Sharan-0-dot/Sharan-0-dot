@@ -1,74 +1,185 @@
-<!-- Profile Banner -->
-![Welcome Banner](https://img.shields.io/badge/Welcome-to%20Sharan's%20GitHub-brightgreen?style=for-the-badge)
+<div align="center">
 
-# 👋 Hi, I'm **Sharan SC**!
+<!-- Animated Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sharan+SC;Full+Stack+Developer;Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 
-> *“Help people and contribute much to society.”*
+</div>
 
----
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=Sharan-0-dot&color=blueviolet&style=for-the-badge)](https://github.com/Sharan-0-dot)
+[![GitHub followers](https://img.shields.io/github/followers/Sharan-0-dot?style=for-the-badge&color=green)](https://github.com/Sharan-0-dot?tab=followers)
 
-## 🎓 About Me
-
-I'm an enthusiastic **Software Engineering student** pursuing Computer Science and Engineering, passionate about building solutions, learning new tech, and making a positive impact.
-
----
-
-## 🛠️ Tech Toolbox
-
-**Languages & Frameworks:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)  
-![Spring Boot](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot)
-
-**Tools & Databases:**  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+</div>
 
 ---
 
-## 🧠 Problem Solver
+<div align="center">
 
-- 🏆 **600+ problems solved** on [LeetCode](https://leetcode.com/u/sharansc482/)  
-- Always excited for new challenges and learning opportunities!
+### 💫 *"Help people and contribute much to society."*
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## 🚀 About Me
+
+- 🎓 **Software Engineering Student** specializing in Computer Science
+- 💻 Building **impactful solutions** with modern tech
+- 🌱 Currently mastering **Full Stack Development**
+- 🎯 **600+ problems** solved on LeetCode
+- 💬 Ask me about **React, Spring Boot, DSA**
+- ⚡ Fun fact: **Code is poetry in motion**
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharan-0-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan-0-dot&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sharan-0-dot&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharan-0-dot&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sharan-0-dot&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ## 🚩 Featured Projects
 
-### 📝 BlogApp (React & Spring Boot)
-A full-stack blog application with modern tech and cloud deployment.
-- **Frontend:** [BlogApp-react](https://github.com/Sharan-0-dot/BlogApp-react)  
-  Hosted on Vercel: [blog-app-psi-tan.vercel.app](https://blog-app-psi-tan.vercel.app/)
-- **Backend:** [BlogApp-SpringBoot](https://github.com/Sharan-0-dot/BlogApp-SpringBoot)  
-  Hosted on Render
+<div align="center">
 
-### 🎥 [Converge Real-Time Video Chat App (React)](https://github.com/Sharan-0-dot/Converge-live-meet-react-)
-Create instant meetings and join meetings in real-time with seamless video chat functionality.
+<table>
+<tr>
+<td width="50%">
 
-### 🛒 [Ecommerce Website Backend (Spring Boot)](https://github.com/Sharan-0-dot/ecommerce-springboot)
-Robust backend architecture for a scalable e-commerce platform.
+### 📝 BlogApp
+**Full-Stack Blog Platform**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sharan-0-dot&repo=BlogApp-react&theme=tokyonight)](https://github.com/Sharan-0-dot/BlogApp-react)
+
+🔗 [Live Demo](https://blog-app-psi-tan.vercel.app/)
+
+**Tech:** React • Spring Boot • MySQL
+
+</td>
+<td width="50%">
+
+### 🎥 Converge
+**Real-Time Video Chat**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sharan-0-dot&repo=Converge-live-meet-react-&theme=tokyonight)](https://github.com/Sharan-0-dot/Converge-live-meet-react-)
+
+**Features:** Instant Meetings • Live Chat
+
+**Tech:** React • WebRTC
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce Backend
+**Scalable REST API**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sharan-0-dot&repo=ecommerce-springboot&theme=tokyonight)](https://github.com/Sharan-0-dot/ecommerce-springboot)
+
+**Tech:** Spring Boot • JPA • MySQL
+
+</td>
+<td width="50%">
+
+### 💡 More Projects
+**Explore my repositories**
+
+[![Repo](https://img.shields.io/badge/View_All_Repos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharan-0-dot?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🤝 Connect with Me
+## 🎯 Coding Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sharan-sc-4b475b2b7)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/sharansc482/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:sharansc482@gmail.com)
+<div align="center">
 
----
+<a href="https://leetcode.com/u/sharansc482/">
+  <img src="https://leetcard.jacoblin.cool/sharansc482?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
+</a>
 
-## 🌱 On a Mission
-
-💬 Always open to collaborations, new ideas, and making tech accessible to all.  
-🙌 Let's connect and build something great together!
+</div>
 
 ---
 
-<!-- GitHub Stats Card -->
-![Sharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharan-0-dot&show_icons=true&theme=radical)
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-sc-4b475b2b7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sharansc482/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharansc482@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://blog-app-psi-tan.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *Open to collaborations • New ideas • Making tech accessible to all*
+
+### 🙌 *Let's build something amazing together!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
