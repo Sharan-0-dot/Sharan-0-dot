@@ -27,7 +27,7 @@
 - 🎓 **Software Engineering Student** specializing in Computer Science
 - 💻 Building **impactful solutions** with modern tech
 - 🌱 Currently mastering **Full Stack Development & Microservices**
-- 🎯 **600+ problems** solved on LeetCode
+- 🎯 **650+ problems** solved on LeetCode
 - 💬 Ask me about **React, Spring Boot, Microservices, DSA**
 - ⚡ Fun fact: **Code is poetry in motion**
 
