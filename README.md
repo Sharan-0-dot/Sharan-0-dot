@@ -127,7 +127,7 @@
 ### 📝 BlogApp
 **Full-Stack Blog Platform**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sharan-0-dot&repo=BlogApp-react&theme=tokyonight)](https://github.com/Sharan-0-dot/BlogApp-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sharan-0-dot&repo=BlogApp-react&theme=tokyonight)]([https://github.com/Sharan-0-dot/BlogApp-SpringBoot])
 
 🔗 [Live Demo](https://blog-app-psi-tan.vercel.app/)
 
