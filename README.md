@@ -14,63 +14,68 @@
 ---
 
 ### 👨‍💻 About Me
-- Computer Science Engineering student  
-- Strong in **Java, Spring Boot, Microservices**
-- Building **production-style backend systems**
-- Solved **650+ DSA problems** (LeetCode)
-- Interested in **scalable systems & clean architecture**
+- Computer Science Engineering student at The Oxford College of Engineering, achieving a 9.25 CGPA.
+- Recently engineered scalable, event-driven backend pipelines as a Software Development Intern at INTELAIX.
+- First-authored and published "FBG Sensor Design and Analysis for Early Detection of Cancer" at the 2024 IEEE INDIACom.
+- Secured 1st Place at OxyHack, Oxford (2026) and 2nd Place at HackSetu, BNMIT (2026).
+- Solved **900+ DSA problems** on LeetCode, maintaining a peak contest rating of 1832 (Global Top 5%).
+- Passionate about building highly available systems using Java, Spring Boot, and cloud infrastructure.
 
 ---
 
 ### 🧰 Tech Stack
-**Languages:** Java, C, JavaScript  
-**Backend:** Spring Boot, JPA, REST APIs, Microservices  
-**Frontend:** React, HTML, CSS  
-**Databases:** MySQL, MongoDB, PostgreSQL  
-**Tools:** Git, Postman, Docker  
-**Cloud:** Vercel, Render  
+- **Languages:** Java, Python, C, JavaScript.
+- **Backend:** Spring Boot, FastAPI, Microservices, REST APIs.
+- **Frontend:** React, HTML, CSS.
+- **Databases & Messaging:** MySQL, MongoDB, PostgreSQL, Apache Kafka.
+- **Cloud & DevOps:** AWS (EC2, RDS, LAMBDA), Docker, Kubernetes, GCP Compute Engine.
+
+---
+
+### 💼 Experience
+
+**Software Development Intern | INTELAIX** (Nov 2025 - Jan 2026)
+- Built backend infrastructure to migrate client communication from WhatsApp to scalable web push notifications.
+- Engineered a Java Spring Boot and Apache Kafka event-driven pipeline, integrating FCM token lifecycle management.
+- Architected systems for 10,000+ device registrations, achieving sub-100ms async processing over synchronous blocking calls.
 
 ---
 
 ### 🚀 Featured Projects
 
+#### 🌍 ForeignPay - UPI Proxy Wallet for International Tourists
+- Architected a full-stack fintech platform enabling international tourists to onboard, top-up INR wallets, and transact via UPI.
+- Implemented passport-based KYC onboarding with Cloudinary document storage and Razorpay wallet top-ups.
+- Integrated Grok AI as an in-app assistant surfacing spend insights, alongside a React analytics dashboard for real-time visibility.
+- **Tech:** Java, Spring Boot, React, PostgreSQL, AWS EC2.
+
+#### 🚚 FreightIQ - Intelligent Driver Matching & Freight Marketplace
+- Architected a 4-service microservices platform for an India-focused freight marketplace, fully containerized with Docker.
+- Built an XGBoost ML recommendation engine via FastAPI, achieving a ROC-AUC of 0.91 to rank top drivers per shipment.
+- Designed 20+ REST APIs across Spring Boot services with Feign Client inter-service communication.
+- **Tech:** Java, Spring Boot, Python, FastAPI, React, PostgreSQL, XGBoost.
+
+#### 🚦 SAHAJ - AI-Driven Traffic Coordination
+- Developed an AI-driven traffic signal coordination system using Manhattan Distance and Relative Vectoring.
+- Engineered the functional logic to ensure outgoing signals are strictly prioritized during emergency dispersal events. 
+
 #### 🛡️ Sentinel – Reimbursement Fraud Detection System
-- Microservice-based reimbursement processing platform
-- OCR-based receipt extraction with fraud scoring
-- Policy validation & claim lifecycle management  
-**Tech:** Spring Boot, PostgreSQL, OCR, REST APIs  
-🔗 https://github.com/Sharan-0-dot/Sentinel
-
-#### 🧠 AI Resume Builder (Microservices)
-- ATS-friendly resume generation using **Gemini AI**
-- Spring Boot microservices with API Gateway & Eureka
-- DOCX export using Apache POI  
-🔗 https://github.com/Sharan-0-dot/ai-resume-builder-microservices
-
-#### 📝 Blog Application
-- Full-stack blog platform with authentication
-- React frontend + Spring Boot backend  
-🔗 https://github.com/Sharan-0-dot/BlogApp-SpringBoot  
-🌐 https://blog-app-psi-tan.vercel.app/
-
-#### 🎥 Converge – Live Video Meet
-- Real-time video conferencing & chat
-- React + Spring Boot + ZegoCloud  
-🔗 https://github.com/Sharan-0-dot/Converge-live-meet-react-
+- Microservice-based reimbursement processing platform with OCR-based receipt extraction and fraud scoring.
+- **Tech:** Spring Boot, PostgreSQL, Docker, REST APIs.
 
 ---
 
 ### 📊 Coding Profile
-- **LeetCode:** 800+ problems solved
-- **Contest Rating: 1686**  
-- Strong in **DSA, DP, Graphs, System Design basics**
+- **LeetCode:** 900+ problems solved
+- **Contest Rating:** 1832 (Global Top 5%)
+- Consistently competing in weekly and biweekly contests.
 
 ---
 
 ### 🤝 Open To
-- Backend / Full Stack roles  
-- Internships & entry-level SDE roles  
-- Open-source collaboration  
+- Backend / Full Stack roles
+- Internships & entry-level SDE roles
+- Open-source collaboration
 
 ---
 
