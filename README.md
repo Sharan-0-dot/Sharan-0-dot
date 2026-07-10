@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sharan-sc-4b475b2b7">LinkedIn</a> •
   <a href="https://leetcode.com/u/sharansc482/">LeetCode</a> •
   <a href="mailto:sharansc482@gmail.com">Email</a> •
-  <a href="https://portfolio-web-page-azure.vercel.app/">Portfolio</a>
+  <a href="https://sharansc.tech">Portfolio</a>
 </p>
 
 ---
@@ -43,6 +43,13 @@
 
 ### 🚀 Featured Projects
 
+#### 🤖 Job Search Agent - Autonomous AI Career Matching Platform
+
+- Architected an agentic job-search platform using a planner-executor pattern with LangChain4j, orchestrating tool calls for live job retrieval, semantic ranking, and resume analysis.
+- Built a hybrid ranking engine combining deterministic scoring (skill, location, experience, tech-stack, salary overlap) with 768-dim pgvector embeddings for semantic resume-to-job matching.
+- Engineered a resume intelligence pipeline (Apache Tika parsing, ATS gap analysis) alongside multi-turn conversational memory backed by PostgreSQL.
+- **Tech:** Java, Spring Boot, LangChain4j, PostgreSQL (pgvector), Gemini/Llama 3, Docker.
+
 #### 🌍 ForeignPay - UPI Proxy Wallet for International Tourists
 - Architected a full-stack fintech platform enabling international tourists to onboard, top-up INR wallets, and transact via UPI.
 - Implemented passport-based KYC onboarding with Cloudinary document storage and Razorpay wallet top-ups.
@@ -66,7 +73,7 @@
 ---
 
 ### 📊 Coding Profile
-- **LeetCode:** 900+ problems solved
+- **LeetCode:** 1000+ problems solved
 - **Contest Rating:** 1832 (Global Top 5%)
 - Consistently competing in weekly and biweekly contests.
 
