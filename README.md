@@ -1,6 +1,10 @@
 <h2 align="center">Hi, I'm Sharan 👋</h2>
 
 <p align="center">
+  <img src="assets/banner.svg" alt="Calm animated night sky with aurora, stars and waves" width="100%"/>
+</p>
+
+<p align="center">
   Software Engineer • Full Stack Developer • Problem Solver
 </p>
 
@@ -18,7 +22,7 @@
 - Recently engineered scalable, event-driven backend pipelines as a Software Development Intern at INTELAIX.
 - First-authored and published "FBG Sensor Design and Analysis for Early Detection of Cancer" at the 2024 IEEE INDIACom.
 - Secured 1st Place at OxyHack, Oxford (2026) and 2nd Place at HackSetu, BNMIT (2026).
-- Solved **900+ DSA problems** on LeetCode, maintaining a peak contest rating of 1832 (Global Top 5%).
+- Solved **1000+ DSA problems** on LeetCode, maintaining a peak contest rating of 1832 (Global Top 5%).
 - Passionate about building highly available systems using Java, Spring Boot, and cloud infrastructure.
 
 ---
